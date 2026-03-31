@@ -41,6 +41,7 @@ I am a passionate student and programming enthusiast interested in computer scie
 - 👤 Name: Muhammed Shahanad E P
 - 🎂 Date of Birth: 26/11/2006
 - 📍 Location: Kerala, India
+- 📧 Email: muhammedshahanad04@gmail.com
 - 🌐 GitHub: https://github.com/Muhammedshahanad1104
 
 ⭐ Goals
